@@ -1,9 +1,7 @@
-#Git Course
+#Git and Github Course
 
-##Este é um repositório teste para ensinar com git funciona.
+##Teacher William justen.
 
-Arquivo da aula de Github para iniciantes
+More information: www.jotamaximo.com
 
-Saiba mais no link: www.jotamaximo.com
-
-Ajude com uma doação é válido!
+Good Night!
