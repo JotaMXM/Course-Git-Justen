@@ -4,3 +4,6 @@
 
 Arquivo da aula de Github para iniciantes
 
+Saiba mais no link: www.jotamaximo.com
+
+Ajude com uma doação é válido
